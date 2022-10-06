@@ -1,5 +1,4 @@
-# Course-Monitoring-System
-Course Monitoring System - Console-based Java project, using Java, JDBC, MySQL.
+ 
 <h1 align="center" style="font-size:35px">
   <b>Course Monitoring System</b>
 </h1>
